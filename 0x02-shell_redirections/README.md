@@ -1,2 +1,4 @@
 #!/bin/bash
-$ Prints hello world
+0 “Hello, World”, followed by a new line to the standard output.
+1 script that displays a confused smiley "(Ôo)'.
+2 Display the content of the /etc/passwd file.
