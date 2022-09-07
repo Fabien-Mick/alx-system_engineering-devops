@@ -11,3 +11,4 @@
 9 Divide Power by Divide
 10 Breat x Love
 11 convert a number from base 2 to base 10.
+12 script that prints all possible combinations of two letters, except oo.
