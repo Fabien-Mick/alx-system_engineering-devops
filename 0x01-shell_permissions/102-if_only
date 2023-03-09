@@ -1,2 +1,2 @@
 #!/bin/bash
-chown betty:guillaume hello --no-group
+chown --from=guillaume betty hello
