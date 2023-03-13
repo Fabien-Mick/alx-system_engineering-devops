@@ -1,2 +1,2 @@
 #!/bin/bash
-find. -empty -type f -o- empty type d | cat -A
+find . -empty -type d -o -empty -type f | cat -A
